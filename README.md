@@ -1,0 +1,7 @@
+# myBluetooth
+手机蓝牙串口的调试助手demo实现 手机蓝牙串口的调试助手demo实现源码，另附有打包好的APK文件。
+
+
+在Android蓝牙通信连接的开发中，需要在AndroidManifest.xml配置文件中增加相应的权限，需要添加BLUETOOTH和BLUETOOTH_ADMIN这两个权限。在确保手机支持蓝牙的前提下，应用程序通过获取BluetoothAdapter类，根据其getDefaultAdapter()方法获取该类的实例，通过.isEnabled()查询手机蓝牙是否为打开状态。通过BluetoothAdapter.getBondedDevices()获取该手机蓝牙设备已经匹配的蓝牙设备信息；搜索新设备可通过使用BluetoothAdapter.startDiscovery()方法进入一个为时12秒的扫描发现外围蓝牙其他设备，当发系统现设备时，随即系统发出广播，程序通过注册并接受该广播，获取该广播信息里的蓝牙设备BluetoothDevice实例，从而获取该蓝牙设备的信息。
+
+详情前往 https://blog.csdn.net/sinat_27064327/article/details/80527460
