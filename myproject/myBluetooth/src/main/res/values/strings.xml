@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version gg.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <string name="app_name">通信组网测试应用助手</string>
+    <string name="activity_name">蓝牙串口通信工具</string>
+    <!--  BluetoothChat -->
+    <string name="send">发  送</string>
+    <string name="not_connected">没有连接设备</string>
+    <string name="bt_not_enabled_leaving">蓝牙不可用，离开程序</string>
+    <string name="title_connecting">正在连接中...</string>
+    <string name="title_connected_to">已连接: </string>
+    <string name="title_not_connected">没有连接</string>
+    <string name="out16">16进制发送</string>
+    <string name="svf">保  存</string>
+    <string name="autosend">自动发送</string>
+    <string name="textv">周期:</string>
+    <string name="clear">清  屏</string>
+    <string name="clearcount">清除计数</string>
+    <string name="in16">Hex显示</string>
+    <string name="edtsend">      发送区</string>
+    <string name="edtauto">ms</string>
+    <string name="in">接收区</string>
+    <string name="incount">接收数：</string>
+    <string name="outcount">发送数：</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">正在搜索设备...</string>
+    <string name="select_device">选择一个设备连接</string>
+    <string name="none_paired">没有已配对的设备</string>
+    <string name="none_found">未发现设备</string>
+    <string name="title_paired_devices">已配对的设备</string>
+    <string name="title_other_devices">其它可用的设备</string>
+    <string name="button_scan">搜索设备</string>
+
+
+   
+    <string name="discoverable1">设备可见</string>
+    
+    <string name="search">搜索设备</string>
+    
+    <string name="check">检错模式</string>
+    
+    <string name="errorma">误比特率:</string>
+    
+    <string name="ex">%</string>
+    
+    <string name="error">丢包率：</string>
+    
+    <string name="correct">误符号率:</string>
+    
+    <string name="geshu">%</string>
+    
+    <string name="text">请输入保存的文件名</string>
+    
+    <string name="checkma">检错码</string>
+    
+    <string name="countcheckbao">测试包：</string>
+    
+    <string name="response">响应时间</string>
+    <string name="st_bluetooth">蓝牙串口通信工具</string>
+    <string name="st_tcp_ip">误码测试工具</string>
+
+    <string name="st_about">关于</string>
+    <string name="str_main_choice">主程序入口页面</string>
+    <string name="tx_exit">退出</string>
+    <string name="set">网络连接设置</string>
+    <string name="li_mode">连接模式:</string>
+    <string name="de_ip">本地 I P:</string>
+    <string name="ip">IP地址</string>
+    <string name="de_poet">本地端口:</string>
+    <string name="port">端口号</string>
+    <string name="start"> 启动 </string>
+    <string name="out"> 断开 </string>
+    <string name="re_set">接收设置</string>
+    <string name="hex_show">十六进制显示</string>
+    <string name="auto_huan">自 动 换 行</string>
+    <string name="send_set">发送设置</string>
+    <string name="hex_send">十六进制发送</string>
+    <string name="auto_send">定 时 发 送</string>
+    <string name="time">周期:</string>
+    <string name="link_">连接对象：</string>
+    <string name="de_state">设备状态</string>
+    <string name="d_ip">对象IP</string>
+    <string name="d_port">对象主机名</string>
+    <string name="re_data">数据接收区：</string>
+    <string name="re_count">接收字节数：</string>
+    <string name="se_data">数据发送区:</string>
+    <string name="send_count">发送字节数：</string>
+    <string name="_0">0个</string>
+    <string name="de_clear">清除</string>
+    <string name="de_send">发送</string>
+    <string name="er_check_platform">环境监测平台</string>
+    <string name="wecome">欢迎您的登录！</string>
+    <string name="user_name">账户</string>
+    <string name="Edit_user_name">账户名</string>
+    <string name="user_password">密码</string>
+    <string name="user_remeber">记住密码</string>
+    <string name="login">登录</string>
+    <string name="pw_register">注册密钥</string>
+    <string name="关于">关于</string>
+</resources>

@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\ee.jpg",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\ee.jpg"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\checkon.png",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\checkon.png"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\but2.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\but2.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_selecter.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\layout_selecter.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\mainbutton_default.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\mainbutton_default.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\f.png",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\f.png"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown_bg_selector.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\dropdown_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\checkoff.png",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\checkoff.png"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown.png",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\dropdown.png"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\background_login_div.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\background_login_div.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetoothbutton.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bluetoothbutton.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_login_input_press.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bg_login_input_press.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\butt1.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\butt1.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\sou.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\sou.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_color_03.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\progressbar_color_03.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\mainbutton.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\mainbutton.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\mainbutton_pressed.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\mainbutton_pressed.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_login.jpg",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bg_login.jpg"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\receicer.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\receicer.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\checkboxsytle.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\checkboxsytle.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_login_input.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bg_login_input.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_progressbar_mini.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\shape_progressbar_mini.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\list_tubiao.jpg",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\list_tubiao.jpg"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\history_normal.png",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\history_normal.png"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\bac.png",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bac.png"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_login_button_default.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bg_login_button_default.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\t.png",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\t.png"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_color_01.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\progressbar_color_01.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\realtime_ch.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\realtime_ch.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\app_incon_bluetooth.png",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\app_incon_bluetooth.png"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_style.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\bluettothbutton_pressed.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bluettothbutton_pressed.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_login_button_press.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bg_login_button_press.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_progressbar_bg.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\shape_progressbar_bg.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroub.jpg",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\backgroub.jpg"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_progress.png",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bg_progress.png"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_login_input_default.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bg_login_input_default.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\history_press.png",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\history_press.png"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown_list_selector.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\dropdown_list_selector.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_login_button.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bg_login_button.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\butto.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\butto.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\mai.jpg",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\mai.jpg"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\gg.jpg",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\gg.jpg"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\but.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\but.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetoothbutton_default.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bluetoothbutton_default.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_color_02.xml",
+        "source": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\src\\main\\res\\drawable\\progressbar_color_02.xml"
+    },
+    {
+        "merged": "E:\\android studio\\UI_myproject\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bcfc68de38e93c3da1c7970ae8d81d56a217505b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    }
+]

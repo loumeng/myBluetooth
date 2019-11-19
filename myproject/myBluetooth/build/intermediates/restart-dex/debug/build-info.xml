@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="2567222366431"
+    token="-6141822482368320518"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="717" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="882" />
+    <task
+        name="verifier"
+        duration="94" />
+
+    <artifact
+        location="E:\android studio\UI_myproject\myproject\myBluetooth\build\outputs\apk\myBluetooth-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="2567222366431"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\android studio\UI_myproject\myproject\myBluetooth\build\outputs\apk\myBluetooth-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
